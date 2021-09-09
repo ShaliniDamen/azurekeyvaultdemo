@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h2>Application :  <asp:Label runat="server" ID="lbl_PersonName"></asp:Label></h2>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
+        <p class="lead">ASP.NET is a  web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
