@@ -3,8 +3,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h2>Application :  <asp:Label runat="server" ID="lbl_PersonName"></asp:Label></h2>
-        <p class="lead">Test ASP.NET is a new web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
+        <h2>Shalini Application :  <asp:Label runat="server" ID="lbl_PersonName"></asp:Label></h2>
+        <p class="lead"> Test ASP.NET is a new web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
